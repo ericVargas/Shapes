@@ -13,3 +13,5 @@ function draw() {
         triangle(300, 300, 300, 50, 350, 350);        // position of each corner of triangle, point A (x,y), point B (x,y), point C (x,y)
         fill("yellow");                               // color of shape
 }
+
+// buoebuiovebuovbrueburebvurebvreiwbvureiqbjedw;qnjdnwjo
